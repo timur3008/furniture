@@ -1,0 +1,13 @@
+@import url('css/header/header.css');
+@import url('css/body/body.css');
+@import url('css/footer/footer.css');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "PT Sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
