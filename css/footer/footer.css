@@ -1,0 +1,98 @@
+.footer {
+    width: 100%;
+    background: #384685;
+}
+.container__footer {
+    width: 1420px;
+    margin: 0px auto;
+    display: flex;
+    padding: 60px 0px;
+}
+.container__footer_info {
+    margin-right: 38px;
+    display: flex;
+    flex-direction: column;
+}
+.footer__logo_svg {
+    margin-bottom: 25px;
+}
+.footer__info_phone {
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 21px;
+}
+.footer__informations {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 62px;
+    row-gap: 10px;
+}
+.footer__info {
+    display: flex;
+}
+.footer__info_text {
+    width: 117px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+    margin-right: 26px;
+}
+.footer__info_name {
+    width: 224px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+}
+.footer__instagram_text {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+}
+.footer__instagram_logo {
+    width: 123px;
+    height: 82px;
+}
+.footer__prove_text {
+    margin-top: 82px;
+    margin-bottom: 42px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #DBDBDB;
+}
+.container__footer_links {
+    display: flex;
+    column-gap: 20px;
+}
+.container__footer_link {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.footer__link_main_txt {
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+}
+.footer__link_txt {
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
